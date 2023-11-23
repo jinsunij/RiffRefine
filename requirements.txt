@@ -22,7 +22,7 @@ requests
 pydot
 tqdm
 python-dotenv  # 0.6.4
-utils
+Jinja2
 
 # Dependencies of the above.
 #certifi==2017.11.5
