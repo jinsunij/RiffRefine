@@ -1,4 +1,4 @@
-<img src="https://github.com/jinsunij/RiffRefine/main/images/riffrefine.png" width="270">
+<img src="https://github.com/jinsunij/RiffRefine/blob/main/images/riffrefine.png?raw=true" width="270">
 
 
 
